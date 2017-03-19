@@ -90,9 +90,6 @@ public class BirthdayParadox {
 			max = Integer.parseInt(args[1]);
 			numberOfRuns = Integer.parseInt(args[2]);
 		}
-		
-                // Call the StudentInfo.java
-        	StudentInfo.display();
 
 		// Initialize chart object
 		ITI1121Chart iChart = new ITI1121Chart("The Birthday Paradox Graph");
