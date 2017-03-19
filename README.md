@@ -1,7 +1,7 @@
 # BirthdayParadox
 Simulating, running and graphing a series of experiments on the Birthday Paradox.
 
-# How to ?
+# How to?
 
 Structure:
 Q2/src/ => java files
