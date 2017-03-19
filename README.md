@@ -2,7 +2,7 @@
 
 Simulating, running and graphing a series of experiments on the Birthday Paradox.
 
-# How to?
+## How to?
 
 Compiling (from the directory "Q2")
 
