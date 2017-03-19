@@ -1,15 +1,10 @@
 # BirthdayParadox
+
 Simulating, running and graphing a series of experiments on the Birthday Paradox.
 
 # How to?
 
-Structure:
-
-Q2/src/ => java files
-Q2/lib/ => jar files (ITI1121.jar, jcommon-1.0.23.jar and jfreechart-1.0.19.jar)
-Q2/class/ => compiled (class) files
-
-Compiling (from the directory "Run")
+Compiling (from the directory "Q2")
 
 On windows:
 
